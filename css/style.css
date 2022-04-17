@@ -1,0 +1,38 @@
+body {
+    font: 20px 'Times New Roman', Times, serif;
+    background-color: #becdd8
+}
+.navbar {
+    background-color: #5181ac;
+    
+}
+
+.quem-somos {
+background-color: #becdd8;
+}
+
+.margin {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.imgpost {
+    border-radius: 10000px;
+    height: 300px;
+    width: 400px;
+}
+
+.parceiros {
+    background-color:#5181ac;
+}
+.serviçotxt {
+
+    padding-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    
+}
